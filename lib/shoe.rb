@@ -11,9 +11,10 @@ class Shoe
     @brand
   end
   
-  def color
-    @color
+  def color=(pigment)
+    @color = pigment
   end
+
     
     
   
