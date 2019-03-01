@@ -3,7 +3,13 @@ class Shoe
     @brand = brand
   end
   
-  def brand=()
+  def brand=(make)
+    @brand = make
+  end
+  
+  def brand
+    @brand
+  end
     
     
   
