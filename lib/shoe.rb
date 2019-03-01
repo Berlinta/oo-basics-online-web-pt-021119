@@ -19,7 +19,13 @@ class Shoe
     @color
   end
   
-  def size()
+  def size=(dimension)
+    @size = dimension
+  end
+  
+  def size
+    @size
+  end
     
   
 end
