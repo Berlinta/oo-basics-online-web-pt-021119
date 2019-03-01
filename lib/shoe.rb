@@ -44,6 +44,6 @@ class Shoe
   end
   
   def cobble
-    puts ""
+    puts "Your shoer is as good as new!"
   end
 end
