@@ -27,7 +27,15 @@ class Shoe
     @size
   end
   
-  def material()
+  def material=(matter)
+    @matter = matter
+  end
+  
+  def material
+    @material
+  end
+  
+  def condition()
     
   
 end
