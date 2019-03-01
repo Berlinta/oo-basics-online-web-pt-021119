@@ -7,4 +7,7 @@ class Book
     @title
   end
   
+  def name
+  end
+  
 end
