@@ -15,7 +15,9 @@ class Shoe
     @color = pigment
   end
 
-    
+  def color
+    @color
+  end
     
   
 end
